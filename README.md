@@ -47,5 +47,3 @@
   <img src="https://komarev.com/ghpvc/?username=Mj2603&color=blueviolet&style=flat-square" alt="Profile views" />
 </p>
 
-<!-- Snake animation -->
-![Snake animation](https://github.com/Mj2603/Mj2603/blob/output/github-contribution-grid-snake.svg) 
