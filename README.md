@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Quant+Research;Trading;Options+Market+Making;)](https://git.io/typing-svg)
 
 ## 🚀 About Me
-- 🔭 I'm currently working on **Options Market Making**
-- 🌱 I'm passionate about **Machine Learning**, **Quant Trading** and **Financial Markets**
-- 🎯 Goal: Contributing to open-source projects and helping the developer community
+- I'm currently working on **Options Market Making**
+- I'm passionate about **Machine Learning**, **Quant Trading** and **Financial Markets**
+- Goal: Contributing to open-source projects and helping the developer community
 
 
 
