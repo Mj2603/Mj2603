@@ -1,11 +1,10 @@
 # Hi there, I'm Mrityunjay 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Python+Developer;Data+Science+Enthusiast;Financial+Markets+Analyst)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Quant+Research;Trading;Options+Market+Making;)](https://git.io/typing-svg)
 
 ## 🚀 About Me
-- 🔭 I'm currently working on **Financial Market Analysis Tools**
-- 🌱 I'm passionate about **Data Science**, **Machine Learning**, and **Financial Markets**
-- 💡 I love building tools that make data analysis easier and more insightful
+- 🔭 I'm currently working on **Options Market Making**
+- 🌱 I'm passionate about **Machine Learning**, and **Financial Markets**
 - 🎯 Goal: Contributing to open-source projects and helping the developer community
 
 
