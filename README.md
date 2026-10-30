@@ -2,29 +2,28 @@
 
 Quantitative finance researcher and engineer focused on market microstructure, derivatives, and systematic strategy research.
 
-## Selected Quantitative Research & Systems Projects
+## Selected Research & Systems Projects
 
-### [Market Microstructure & Market-Making Research Platform](https://github.com/Mj2603/Options-Market-Making-Simulator-)
-**Python** · Options pricing, quoting, execution, and risk research
+### [Options Market-Making Simulator](https://github.com/Mj2603/Options-Market-Making-Simulator-)
+**Python** · Pricing, quoting, execution, and risk research
 
-An event-driven options market-making simulator with modular pricing, execution, inventory, and P&L components. The open PR adds queue and latency proxies, inventory-aware quoting, portfolio risk, transaction costs, and walk-forward evaluation. Research prototype; not intended for live trading.
+A research prototype with Black–Scholes valuation, fixed-spread quotes, simplified fills, inventory tracking, and P&L accounting. [PR #10](https://github.com/Mj2603/Options-Market-Making-Simulator-/pull/10) is open and proposes event-driven walk-forward experiments, inventory-aware quoting, queue/latency proxies, portfolio risk, and transaction costs.
 
 ### [Low-Latency Limit Order Book Engine](https://github.com/Mj2603/LowLatencyLOBEngine)
-**C++17** · Matching engine and performance benchmarks
+**C++17** · Bounded queues and fixed-array data structures
 
-A cache-conscious price-level matching engine with a preallocated event queue and atomic quantity updates, alongside reproducible throughput and latency benchmarks.
+A systems prototype exploring a bounded SPSC event queue and aggregate price buckets. It is not an order-level FIFO book, and no portable throughput or tail-latency claim is published.
 
-### [Statistical Arbitrage Research Framework](https://github.com/Mj2603/Statistical-Arbitrage-Research-)
+### [Statistical Arbitrage Research](https://github.com/Mj2603/Statistical-Arbitrage-Research-)
 **Python** · Cointegration and walk-forward evaluation
 
-A pairs-trading research framework using Engle–Granger and Johansen methods, rolling hedge ratios, transaction-cost modelling, and out-of-sample performance and robustness metrics.
+A pairs-research prototype using Engle–Granger/Johansen screening, a fixed OLS hedge ratio per training window, spread signals, simplified transaction costs, and out-of-sample windows.
 
-### [Derivatives Pricing & Calibration Library](https://github.com/Mj2603/Derivatives-Pricing-Library-C-)
-**C++17** · Numerical pricing and calibration
+### [Derivatives Pricing Library](https://github.com/Mj2603/Derivatives-Pricing-Library-C-)
+**C++17** · Numerical option pricing
 
-Pricing tools for European and American options, barrier knock-outs, and arithmetic Asian options, using binomial trees, Monte Carlo, and finite differences. Includes analytical Greeks and implied-volatility solvers.
+Research implementations for European and American options, selected barrier knock-outs, and arithmetic Asian options using analytical, binomial, Monte Carlo, and finite-difference methods. Includes Greeks and calibration experiments.
 
 ## Tools
 
-C++17 · Python · NumPy · Statsmodels · XGBoost · CMake · pytest
-
+C++17 · Python · NumPy · Statsmodels · XGBoost · CMake
